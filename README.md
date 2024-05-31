@@ -26,8 +26,8 @@
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/>](https://karma-runner.github.io/latest/index.html) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>](https://www.mongodb.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/) |
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org) | [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>](https://postman.com) | [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>](https://tailwindcss.com/) |  |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princenr&show_icons=true&locale=en&layout=compact" alt="princenr" /></p>
+## GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princenr&show_icons=true&locale=en" alt="princenr" /></p>
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=princenr&show_icons=true&locale=en&layout=compact" alt="princenr" /> | <img src="https://github-readme-stats.vercel.app/api?username=princenr&show_icons=true&locale=en" alt="princenr" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=princenr&" alt="princenr" /> |
+|---|---|---|
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princenr&" alt="princenr" /></p>
