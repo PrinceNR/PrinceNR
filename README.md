@@ -1,35 +1,83 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
+<h3 align="center">MERN Stack Developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princenr&label=Profile%20views&color=0e75b6&style=flat" alt="princenr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princenr" alt="princenr" /></a> </p>
-
-- 🌱 I’m currently learning **React.js**
-
-- 📫 How to reach me **princenrtvm@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/prince-n-r-2826aa201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prince-n-r-2826aa201" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/princenr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="princenr" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=princenr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-## Technologies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=princenr&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  </a>
+</p>
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/) |
-|---|---|---|---|
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>](https://expressjs.com) | [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>](https://www.figma.com/) | [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/) |
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/>](https://karma-runner.github.io/latest/index.html) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>](https://www.mongodb.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/) |
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org) | [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>](https://postman.com) | [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>](https://tailwindcss.com/) |  |
+## About me
 
-## GitHub Stats
+- 💻 I build full-stack web applications with the **MERN stack**.
+- 🧩 I enjoy creating practical browser tools and solving automation challenges.
+- 🧠 I work with **JavaScript, DOM APIs, Chrome Extension APIs, and algorithms**.
+- 🔍 I have experience with client-side state, message passing, visual data extraction, and debugging complex web interfaces.
+- 🌱 I’m currently improving my **React.js, TypeScript, automated testing, and system-design** skills.
+- 🤝 I’m open to collaborating on web applications, browser extensions, and open-source projects.
+- 📫 Reach me at **princenrtvm@gmail.com**.
+- ⚡ Fun fact: **I think I am funny.**
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=princenr&show_icons=true&locale=en&layout=compact" alt="princenr" /> | <img src="https://github-readme-stats.vercel.app/api?username=princenr&show_icons=true&locale=en" alt="princenr" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=princenr&" alt="princenr" /> |
-|---|---|---|
+## Connect with me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/prince-n-r-2826aa201" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prince on LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/princenr" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prince on LeetCode" height="30" width="40" />
+  </a>
+</p>
+
+## Languages and tools
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS" />
+</p>
+
+### Backend and databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB, and MySQL" />
+</p>
+
+### Programming and development tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,postman,figma,vscode" alt="C, C++, Git, GitHub, Postman, Figma, and VS Code" />
+</p>
+
+### Currently learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,jest" alt="React, TypeScript, and Jest" />
+</p>
+
+## What I work with
+
+- Full-stack development with MongoDB, Express.js, React, and Node.js
+- Responsive interfaces with HTML, CSS, Bootstrap, and Tailwind CSS
+- REST APIs, database integration, and API testing with Postman
+- Chrome Manifest V3 extensions, service workers, content scripts, and browser storage
+- DOM parsing, SVG/KaTeX handling, image-data processing, and offline visual recognition
+- Data structures, mathematical algorithms, problem-solving, and performance-focused JavaScript
+- Git/GitHub workflows and UI prototyping with Figma
+
+## GitHub stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=princenr&show_icons=true&theme=tokyonight&hide_border=true" alt="Prince's GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=princenr&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Prince's most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=princenr&theme=tokyonight&hide_border=true" alt="Prince's GitHub contribution streak" />
+</p>
