@@ -1,28 +1,24 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-
-<h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">Software and hardware (embedded eng) from India 🇮🇳</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princenr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Animated developer workspace banner" width="100%" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Prince</h1>
+
+<h3 align="center">Software &amp; Hardware Developer • Embedded Systems Engineer</h3>
+<h6 align="center"> A curious child who wants to explore tech </h6>
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=princenr&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=PrinceNR&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="PrinceNR profile views" />
 </p>
 
 ## About me
 
-- 💻 I build full-stack web applications with the **MERN stack**.
-- 🧩 I enjoy creating practical browser tools and solving automation challenges.
-- 🧠 I work with **JavaScript, DOM APIs, Chrome Extension APIs, and algorithms**.
-- 🔍 I have experience with client-side state, message passing, visual data extraction, and debugging complex web interfaces.
-- 🌱 I’m currently improving my **React.js, TypeScript, automated testing, and system-design** skills.
-- 🤝 I’m open to collaborating on web applications, browser extensions, and open-source projects.
+- 🤝 I am open to collaborating on web, browser-extension, embedded, and open-source projects.
+- 💼 I am open to **embedded systems and embedded engineering opportunities**.
+- 🔌 I am interested in electronics, embedded systems, and hardware-software integration.
+- 💻 I build full-stack applications with the **MERN stack**.
+- ⚙️ I work with **Python, JavaScript, C, C++, React, Node.js, and Chrome APIs**.
 - 📫 Reach me at **princenrtvm@gmail.com**.
-- ⚡ Fun fact: **I think I am funny.**
 
 ## Connect with me
 
@@ -35,49 +31,58 @@
   </a>
 </p>
 
-## Languages and tools
+## Skills
 
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS" />
-</p>
-
-### Backend and databases
+### Programming languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB, and MySQL" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" alt="Python, C, C++, and JavaScript" />
 </p>
 
-### Programming and development tools
+### Web development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,postman,figma,vscode" alt="C, C++, Git, GitHub, Postman, Figma, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql" alt="HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS, Node.js, Express, MongoDB, and MySQL" />
 </p>
 
-### Currently learning
+### AI-assisted development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,jest" alt="React, TypeScript, and Jest" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square&amp;logo=chatbot&amp;logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFF?style=flat-square&amp;logo=deepseek&amp;logoColor=white" alt="DeepSeek" />
 </p>
 
-## What I work with
+-  AI-assisted coding, debugging, refactoring, and code review
+-  Prompt engineering, rapid prototyping, documentation, and researc
 
-- Full-stack development with MongoDB, Express.js, React, and Node.js
-- Responsive interfaces with HTML, CSS, Bootstrap, and Tailwind CSS
-- REST APIs, database integration, and API testing with Postman
-- Chrome Manifest V3 extensions, service workers, content scripts, and browser storage
-- DOM parsing, SVG/KaTeX handling, image-data processing, and offline visual recognition
-- Data structures, mathematical algorithms, problem-solving, and performance-focused JavaScript
-- Git/GitHub workflows and UI prototyping with Figma
+### Electronics and embedded systems
 
-## GitHub stats
+- Embedded C and C++ fundamentals
+- Microcontroller programming and basic firmware development
+- Analog and digital electronics fundamentals
+- Sensor, module, and peripheral interfacing
+- Breadboard prototyping, circuit testing, and troubleshooting
+- Reading circuit diagrams and component datasheets
+- Hardware-software integration
+
+### Development tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" alt="Git, GitHub, Postman, Figma, and Visual Studio Code" />
+</p>
+
+
+## Recent projects
+
+- 🎬 [**Video Generator Using PowerPoint**](https://github.com/PrinceNR/AIVideoAutomation) — A tool for turning PowerPoint-based content into videos and simplifying the video-creation workflow.
+  
+- 🧠 [**Matiks Problem Solver Extension**](https://github.com/PrinceNR/Matiks_duel_solver) — A Chrome Manifest V3 extension that detects and solves supported Matiks math and logic problems using DOM parsing, SVG/KaTeX processing, offline visual recognition, and a local JavaScript solver.
+
+## GitHub activity
+
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=princenr&show_icons=true&theme=tokyonight&hide_border=true" alt="Prince's GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=princenr&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Prince's most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=princenr&theme=tokyonight&hide_border=true" alt="Prince's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=PrinceNR&amp;theme=tokyonight&amp;hide_border=true" alt="Prince's GitHub contribution streak" />
 </p>
