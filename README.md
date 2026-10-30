@@ -4,21 +4,22 @@
 
 <h1 align="center">Hi 👋, I'm Prince</h1>
 
-<h3 align="center">Software &amp; Hardware Developer • Embedded Systems Engineer</h3>
+<h3 align="center">Embedded Systems Engineer</h3>
 <h6 align="center"> A curious child who wants to explore tech </h6>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrinceNR&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="PrinceNR profile views" />
 </p>
 
-## About me
+- ## About me
 
-- 🤝 I am open to collaborating on web, browser-extension, embedded, and open-source projects.
-- 💼 I am open to **embedded systems and embedded engineering opportunities**.
-- 🔌 I am interested in electronics, embedded systems, and hardware-software integration.
-- 💻 I build full-stack applications with the **MERN stack**.
-- ⚙️ I work with **Python, JavaScript, C, C++, React, Node.js, and Chrome APIs**.
-- 📫 Reach me at **princenrtvm@gmail.com**.
+- 🔌 Embedded systems engineer: firmware, sensors, motors, robotics
+- ⚙️ **Embedded C/C++** on **STM32** and **ESP32**
+- 📡 Interfacing over **I2C, SPI, UART, CAN, Wi-Fi**, plus GPIO, PWM, ADC and interrupts
+- 🛠️ Hardware debugging with ST-Link, breadboards and datasheets
+- 🐍 **Python** for tooling and automation
+- 🤝 Open to collaborating on embedded, IoT and open-source projects
+- 📫 **princenrtvm@gmail.com**
 
 ## Connect with me
 
@@ -42,7 +43,7 @@
 ### Web development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql" alt="HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS, Node.js, Express, MongoDB, and MySQL" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="HTML, CSS, JavaScript, React, Bootstrap" />
 </p>
 
 ### AI-assisted development
